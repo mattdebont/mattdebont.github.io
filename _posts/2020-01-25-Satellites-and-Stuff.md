@@ -11,4 +11,4 @@ At their core we have a Docker container which is our workhorse, giving us a rep
 
 Another side project that comes out of this is a general arty thing I do with the imagery, it makes good and unique gifts for all. I will probably continue posting more of these when I make them;
 
-!/images/2020-01-25-Satellites-and-Stuff/uk.png]({{ site.baseurl }}/images/2020-01-25-Satellites-and-Stuff/uk_thumbnail.png)
+![/images/2020-01-25-Satellites-and-Stuff/uk.png](/images/2020-01-25-Satellites-and-Stuff/uk_thumbnail.png)
